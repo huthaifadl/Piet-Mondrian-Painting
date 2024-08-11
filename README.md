@@ -4,6 +4,7 @@
 هذا المشروع يُظهر كيفية استخدام الشبكة في تصميم لوحات تجريدية بألوان وأشكال هندسية بسيطة ويظهر مدى قوة CSS Grid في التحكم بالتصميم وتحويل العمل على الcss أمر أبسط بكثير.
 
 يمكنك معاينة اللوحة من هنا : https://huthaifadl.github.io/Piet-Mondrian-Painting/
+
 You can preview the painting: https://huthaifadl.github.io/Piet-Mondrian-Painting/
 
 A creative project coded using CSS Grid, inspired by the works of artist Piet Mondrian.
